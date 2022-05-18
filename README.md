@@ -1,3 +1,6 @@
+## <b>Screenshot</b>
+<a href="https://github.com/PSYCHO-PICCHI/OLD-CRACK"><img src="https://i.ibb.co/vsSSdtj/Psycho-Picchi.jpg" alt="Psycho-Picchi" border="0"></a><br /><a target='_blank' href='https://whatsmyscreenresolution.com/'>
+
 ## <b>installation</b>
 ```
 🖇️ pkg update
